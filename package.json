@@ -1,0 +1,25 @@
+{
+  "name": "v471d",
+  "version": "0.0.1",
+  "description": "V471D (Valid) Objects validation toolkit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cucurigu/v471d.git"
+  },
+  "keywords": [
+    "validation",
+    "objects",
+    "arrays",
+    "schema"
+  ],
+  "author": "Martin Swiderski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cucurigu/v471d/issues"
+  },
+  "homepage": "https://github.com/cucurigu/v471d#readme"
+}
